@@ -1,0 +1,1 @@
+print("Hello Git! All are my friends!")
